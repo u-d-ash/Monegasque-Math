@@ -4,3 +4,5 @@
 * **Lab 4** : A week's work in 2 hours (early taste of corporate?)
 * **Lab 5** : Ease
 * **Lab 6** : Cheese
+* **Lab 7** : Took approx 71 minutes
+* **Lab 8** : Had to scratch my head. Idk what's wrong with my head.
